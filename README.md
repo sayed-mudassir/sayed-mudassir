@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sayed-muddassir" target="_blank">
+  <a href="https://linkedin.com/in/sayed-muddassir-9901a7225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sayedmudassir68@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="[https://your-portfolio-link.com](https://portfolio-tau-two-aoexu6c4vq.vercel.app/)" target="_blank"> <!-- REPLACE WITH YOUR PORTFOLIO LINK -->
+  <a href="https://portfolio-tau-two-aoexu6c4vq.vercel.app/"> <!-- REPLACE WITH YOUR PORTFOLIO LINK -->
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
