@@ -56,9 +56,10 @@ Built a real-time crypto dashboard that visualizes live data with interactive ch
 
 ## 📫 Connect with Me
 
-- 📧 Email: [sayedmuddassir68@gmail.com](mailto:sayedmuddassir68@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sayed-mudassir-9901a7225/)
-- 💻 [GitHub](https://github.com/sayed-mudassir)
+- 🌐 **Portfolio:** [My Portfoliio](https://portfolio-tau-two-aoexu6c4vq.vercel.app/)
+- 📧 **Email:** [sayedmuddassir68@gmail.com](mailto:sayedmuddassir68@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sayed-mudassir-9901a7225](https://www.linkedin.com/in/sayed-mudassir-9901a7225/)
+- 💻 **GitHub:** [github.com/sayed-mudassir](https://github.com/sayed-mudassir)
 
 ---
 
