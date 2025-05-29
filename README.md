@@ -1,66 +1,49 @@
-# 👋 Hi, I'm S.M Mudassir Uddin Sarmad
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38F7A7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudassir+Uddin;Java+%2F+MERN+Stack+Developer" alt="Typing SVG">
+</h1>
 
-### 🌐 Full-Stack Developer | Java Spring Boot | React | Learning MERN Stack
-
-Welcome to my GitHub! I'm an aspiring full-stack developer with a passion for creating scalable backend systems and dynamic front-end applications. With a solid foundation in Java, Spring Boot, and web technologies, I aim to build impactful and user-friendly software solutions.
-
----
-
-## 🔧 Technologies & Tools
-
-**Languages:**  
-Java | JavaScript | C | SQL | HTML | CSS  
-
-**Frameworks & Libraries:**  
-Spring Boot | JPA | Hibernate | React.js | Redux | Bootstrap  
-(Node.js, Express.js, MongoDB – In Progress)
-
-**Developer Tools:**  
-VS Code | IntelliJ IDEA | NetBeans | Maven | Postman | Git | GitHub  
-
-**Databases:**  
-MySQL | PostgreSQL | MongoDB (learning)
-
-**Other Skills:**  
-REST APIs | API Integration | WebSockets | Agile Methodology  
-Google Analytics | Google Tag Manager | Report & Dashboard
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayed-mudassir&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://linkedin.com/in/sayed-muddassir"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sayedmudassir68@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ---
 
-## 🚀 Projects
+### 🚀 **Technical Arsenal**
 
-### 🥡 [Swiggato](https://github.com/sayed-mudassir/Swiggato.git)
-> **Tech Stack:** Java, Spring Boot, Hibernate, MySQL, Swagger, Postman  
-A backend system for a food delivery application with functionalities for order placement, restaurant management, and email notifications. API documentation is generated using Swagger.
-
-### 💰 [Cryptocurrency Dashboard](https://crypto-dashboard-avi.netlify.app/)
-> **Tech Stack:** React.js, Redux, JavaScript, HTML, CSS  
-Built a real-time crypto dashboard that visualizes live data with interactive charts and supports currency comparison. Fully responsive UI for all devices.
-
----
-
-## 📚 Education & Training
-
-- 🎓 **B.Tech in Electrical Engineering**, SIET, Prayagraj – *CGPA: 7.05*
-- 💻 **Full Stack Development Training**, AccioJob – *Spring Boot, REST APIs, DSA, Backend Projects*
-- 🧠 **Internship:** Coding Skills Development – SIET, 2019
+| **Languages**       | **Frameworks & Tools**      | **Databases**       | **Analytics**       |
+|---------------------|-----------------------------|---------------------|---------------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Dashboards](https://img.shields.io/badge/Data%20Dashboards-FF6B6B?style=for-the-badge&logo=powerbi&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) |  |  |
 
 ---
 
-## 📈 GitHub Stats
+### ⚡ **Featured Projects**
 
-![Mudassir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayed-mudassir&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-mudassir&layout=compact&theme=radical)
+#### 🍔 Swiggato - Food Delivery Backend
+> *Java, Spring Boot, JPA, Hibernate, MySQL, Swagger*  
+📌 Developed robust backend for food delivery app with order management, restaurant coordination, and email notifications  
+📌 Implemented REST APIs with JPA/Hibernate for efficient data handling  
+📌 Streamlined API documentation using Swagger  
+
+#### 💹 Cryptocurrency Dashboard
+> *React, Redux, JavaScript, HTML/CSS*  
+📌 Real-time crypto data visualization with performance tracking  
+📌 Built responsive UI with currency comparison graphs  
+📌 State management using Redux  
 
 ---
 
-## 📫 Connect with Me
+### 🎓 **Education & Training**
+```diff
++ Shambhunath Institute of Engineering & Technology
+! B.Tech in Electrical Engineering
 
-- 🌐 **Portfolio:** [My Portfoliio](https://portfolio-tau-two-aoexu6c4vq.vercel.app/)
-- 📧 **Email:** [sayedmuddassir68@gmail.com](mailto:sayedmuddassir68@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sayed-mudassir-9901a7225](https://www.linkedin.com/in/sayed-mudassir-9901a7225/)
-- 💻 **GitHub:** [github.com/sayed-mudassir](https://github.com/sayed-mudassir)
++ Acciojob (Feb 2023 - Present)
+! Full Stack Development: DSA, Spring Boot, REST APIs, DB Integration
 
----
-
-*Thanks for stopping by! Let's build something awesome together.* 🚀
+# Benhur High School & College
+! Intermediate - CISCE Board
